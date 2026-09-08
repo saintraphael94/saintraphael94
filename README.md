@@ -37,7 +37,6 @@
 - 🎓 **Technology Educator & IT Trainer**
 - 💻 Building practical software and educational technology solutions
 - 📚 Passionate about learning, teaching and translating complex ideas into practical knowledge
-- 🌍 Based in **Nigeria**
 - 🎯 Long-term goal: becoming a leading **AI/ML Engineer and technology innovator**
 
 ---
