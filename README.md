@@ -181,7 +181,7 @@
 
 | Project | Description |
 |---|---|
-| 📈 Data Analysis | Data cleaning, exploration and visualization projects |
+| 📈 Data Science and Analytics | Data cleaning, exploration and visualization projects |
 | 🗄️ SQL Projects | Database querying, analysis and data transformation |
 | 📊 Excel Analytics | Advanced Excel, Power Query and analytical workflows |
 
@@ -192,22 +192,6 @@
 | 🏫 Learning Platforms | Technology solutions for teaching and learning |
 | 🤖 AI Education | AI literacy resources and educational applications |
 | 📚 Teaching Tools | Digital tools for mathematics, programming and technology education |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api?username=saintraphael94&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-     alt="Saintraphael's GitHub Stats"/>
-
-<img height="180em"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintraphael94&layout=compact&hide_border=true&theme=transparent"
-     alt="Saintraphael's Top Languages"/>
-
-</p>
 
 ---
 
