@@ -28,26 +28,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🧠 Exploring **Artificial Intelligence and Machine Learning**
-- 🐍 Building with **Python**
-- 📊 Developing skills in **Data Science & Data Analytics**
-- 🤖 Exploring **Generative AI, AI Automation & AI Engineering**
-- 🎓 **Technology Educator & IT Trainer**
-- 💻 Building practical software and educational technology solutions
-- 📚 Passionate about learning, teaching and translating complex ideas into practical knowledge
-- 🎯 Long-term goal: becoming a leading **AI/ML Engineer and technology innovator**
+- Exploring **Artificial Intelligence and Machine Learning**
+- Building with **Python**
+- Developing skills in **Data Science & Data Analytics**
+- Exploring **Generative AI, AI Automation & AI Engineering**
+- **Technology Educator & IT Trainer**
+- Building practical software and educational technology solutions
+- Passionate about learning, teaching and translating complex ideas into practical knowledge
+- Long-term goal: becoming a leading **AI/ML Engineer and technology innovator**
 
 ---
 
-## 🧭 My Focus
+## My Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
+### Artificial Intelligence
 
 - Machine Learning
 - Generative AI
@@ -61,7 +61,7 @@
 
 <td width="50%" valign="top">
 
-### 📊 Data & Analytics
+### Data & Analytics
 
 - Data Analysis
 - Data Cleaning
@@ -78,7 +78,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Software & Development
+### Software & Development
 
 - Python
 - APIs
@@ -93,7 +93,7 @@
 
 <td width="50%" valign="top">
 
-### 🎓 Education & EdTech
+### Education & EdTech
 
 - Technology Education
 - AI Literacy
@@ -109,9 +109,9 @@
 
 ---
 
-# 🛠️ Technical Arsenal
+# Technical Arsenal
 
-## 🐍 Programming & Development
+## Programming & Development
 
 <p align="left">
 
@@ -119,7 +119,7 @@
 
 </p>
 
-## 📊 Data & Databases
+## Databases
 
 <p align="left">
 
@@ -133,7 +133,7 @@
 
 ---
 
-## 🤖 AI & Machine Learning
+## AI & Machine Learning
 
 <p align="left">
 
@@ -148,7 +148,7 @@
 
 ---
 
-## ⚙️ Tools & Platforms
+## Tools & Platforms
 
 <p align="left">
 
@@ -163,34 +163,34 @@
 
 ---
 
-# 🌟 Featured Work
+# Featured Work
 
 > A selection of projects reflecting my journey across AI, software,
 > data and education.
 
-### 🤖 Artificial Intelligence & Automation
+### Artificial Intelligence & Automation
 
 | Project | Description |
 |---|---|
-| 🧠 AI Projects | Experiments and applications exploring practical uses of AI |
-| ⚙️ AI Automation | Automating repetitive workflows using APIs, Python and AI |
-| 🧪 ML Experiments | Practical exploration of machine learning concepts and models |
+| AI Projects | Experiments and applications exploring practical uses of AI |
+| AI Automation | Automating repetitive workflows using APIs, Python and AI |
+| ML Experiments | Practical exploration of machine learning concepts and models |
 
-### 📊 Data & Analytics
-
-| Project | Description |
-|---|---|
-| 📈 Data Science and Analytics | Data cleaning, exploration and visualization projects |
-| 🗄️ SQL Projects | Database querying, analysis and data transformation |
-| 📊 Excel Analytics | Advanced Excel, Power Query and analytical workflows |
-
-### 🎓 EdTech
+### Data & Analytics
 
 | Project | Description |
 |---|---|
-| 🏫 Learning Platforms | Technology solutions for teaching and learning |
-| 🤖 AI Education | AI literacy resources and educational applications |
-| 📚 Teaching Tools | Digital tools for mathematics, programming and technology education |
+| Data Science and Analytics | Data cleaning, exploration and visualization projects |
+| SQL Projects | Database querying, analysis and data transformation |
+| Excel Analytics | Advanced Excel, Power Query and analytical workflows |
+
+### EdTech
+
+| Project | Description |
+|---|---|
+| Learning Platforms | Technology solutions for teaching and learning |
+| AI Education | AI literacy resources and educational applications |
+| Teaching Tools | Digital tools for mathematics, programming and technology education |
 
 ---
 
