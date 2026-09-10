@@ -179,24 +179,24 @@
 
 ### Artificial Intelligence & Automation
 
-| Project | Description |
-|---|---|
+| Project | Description | Tech Stack |
+|---|---|---|
 | AI Projects | Experiments and applications exploring practical uses of AI |
 | AI Automation | Automating repetitive workflows using APIs, Python and AI |
 | ML Experiments | Practical exploration of machine learning concepts and models |
 
-### Data & Analytics
+### Data Science & Analytics
 
-| Project | Description |
-|---|---|
+| Project | Description | Tech Stack |
+|---|---|---|
 | Data Science and Analytics | Data cleaning, exploration and visualization projects |
 | SQL Projects | Database querying, analysis and data transformation |
 | Excel Analytics | Advanced Excel, Power Query and analytical workflows |
 
 ### EdTech
 
-| Project | Description |
-|---|---|
+| Project | Description | Tech Stack |
+|---|---|---|
 | Learning Platforms | Technology solutions for teaching and learning |
 | AI Education | AI literacy resources and educational applications |
 | Teaching Tools | Digital tools for mathematics, programming and technology education |
