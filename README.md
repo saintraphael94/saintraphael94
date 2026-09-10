@@ -205,8 +205,10 @@
 
 # GitHub Contribution Streak
 
-<div align="center">
-  <div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 40px; border-radius: 12px; border: 1px solid #0f3460; box-shadow: 0 8px 32px rgba(0, 150, 255, 0.1);">
-    <img src="https://streak-stats.demolab.com/?user=saintraphael94&theme=highcontrast&hide_border=true&background=1a1a2e&border=0f3460&ring=0096FF&fire=FF6B35&currStreakNum=00D9FF&sideNums=00D9FF&dates=0096FF" alt="Saintraphael's GitHub Contribution Streak" style="max-width: 100%; border-radius: 8px;"/>
-  </div>
-</div>
+<p align="center">
+
+<img
+     src="https://streak-stats.demolab.com/?user=saintraphael94&hide_border=true&theme=transparent"
+     alt="Saintraphael's GitHub Contribution Streak"/>
+
+</p>
